@@ -44,3 +44,35 @@
     a {:color #F0F00080}mid-range{:reset} target while keeping up
 
     your own guard.
+# Aerial Dodge LV1
+- id: 1629
+  en: >-
+    Press {:icon dynamic-circle} in midair to jump again.
+
+    It is useful for dodging and blocking
+    
+    enemy attacks.
+# Aerial Dodge LV2
+- id: 1631
+  en: >-
+    Press {:icon dynamic-circle} in midair to jump again.
+
+    It is useful for dodging and blocking
+    
+    enemy attacks.
+# Aerial Dodge LV3
+- id: 1633
+  en: >-
+    Press {:icon dynamic-circle} in midair to jump again.
+
+    It is useful for dodging and blocking
+    
+    enemy attacks.
+# Aerial Dodge LVMAX
+- id: 1635
+  en: >-
+    Press {:icon dynamic-circle} in midair to jump again.
+
+    It is useful for dodging and blocking
+    
+    enemy attacks.
