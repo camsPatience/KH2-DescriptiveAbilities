@@ -1,3 +1,11 @@
 # KH2-DescriptiveAbilities
-Makes Counterguard and Vicinity Break's descriptions a little more clear.
-![image](https://github.com/camsPatience/KH2-DescriptiveAbilities/assets/15706696/1313ed87-9348-494d-8035-3463b589ee02)
+Makes several abilities' descriptions a little more clear.
+
+Affected abilities:
+- Counterguard
+- Vicinity Break
+- Aerial Sweep
+- Aerial Spiral
+- Aerial Dive
+- Slide Dash
+- Flash Step
