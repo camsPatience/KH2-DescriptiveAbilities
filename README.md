@@ -9,3 +9,4 @@ Affected abilities:
 - Aerial Dive
 - Slide Dash
 - Flash Step
+- Aerial Dodge
