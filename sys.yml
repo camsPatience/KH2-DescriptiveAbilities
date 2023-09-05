@@ -10,3 +10,37 @@
     When surrounded, unleashes a fast,
 
     powerful attack during a combo.
+# Aerial Sweep
+- id: 14746
+  en: >-
+    Unleashes a powerful leaping attack
+
+    on aerial targets {:color #F0F00080}from the ground{:reset}.
+# Aerial Spiral
+- id: 14748
+  en: >-
+    Closes in on far targets with an
+    
+    aerial spinning attack.
+# Aerial Dive
+- id: 20085
+  en: >-
+    Unleashes a powerful, twisting attack
+    
+    on distant aerial targets
+    
+    {:color #F0F00080}from the ground{:reset}.
+# Sliding Dash
+- id: 14736
+  en: >-
+    Lunges at a target from a
+    
+    {:color #F0F00080}long distance{:reset}.
+# Flash Step
+- id: 20083
+  en: >-
+    Unleashes a rapid, guard-piercing attack on
+
+    a {:color #F0F00080}mid-range{:reset} target while keeping up
+
+    your own guard.
